@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
+- <b>Active Directory Home Lab (Oracle VirtualBox) | Add Users w/PowerShell</b>
 
 
 <h2> 🤳 Connect with me:</h2>
